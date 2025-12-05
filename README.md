@@ -1,150 +1,162 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7100ff,100:00e6ff&height=120&section=header&text=SUJAL%20KISHORE%20KUMAR%20TALREJA&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7100ff,100:00e6ff&height=150&section=header&text=SUJAL%20KISHORE%20KUMAR%20TALREJA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header: Sujal Kishore Kumar Talreja"/>
 
-### 🚀 AI Engineer & Operations Lead @ ZEEX AI  
+### 🚀 AI Engineer & Operations Lead @ ZEEX AI
 **Building Production-Grade AI Systems for Safety, Logistics & Automation**
 
-🎓 M.Sc. AI & ML | 🧠 Research Builder | 🏆 Hackathon Performer  
+🎓 M.Sc. AI & ML | 🧠 Research Builder | 🏆 Hackathon Performer
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-FF0000?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Computer%20Vision-0000FF?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/GenAI-800080?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Startup%20Builder-00C853?style=for-the-badge&logo=rocket&logoColor=white">
+  <img src="https://img.shields.io/badge/AI_Core-FF4500?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Computer_Vision-007BFF?style=flat-square&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/GenAI_Models-6C5CE7?style=flat-square&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Infra_Security-28A745?style=flat-square&logo=cplusplus&logoColor=white">
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00E6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Infra+Intelligence;Founder+Mindset+Developer;GenAI+%7C+Computer+Vision+%7C+Automation"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-Accepting%20AI%20Collaborations-00e6ff?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=7100ff&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Production+Intelligence;Founder+Mindset+Developer;GenAI+%7C+Computer+Vision+%7C+High-Reliability+Automation"/>
 
 </div>
 
----
+<br>
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #00e6ff, rgba(0, 0, 0, 0));">
+<br>
 
-## 🧠 WHO I AM
-I design and deploy **real-world AI systems** where **errors are not tolerated** — surveillance, infrastructure, security and logistics.  
-My work blends:
-✅ Research precision  
-✅ Startup execution  
-✅ Enterprise reliability  
+## 🎯 The Mission Statement: High-Reliability AI
 
----
+I design and deploy **real-world AI systems** for sectors where **errors are not tolerated** — surveillance, infrastructure, security, and logistics.
 
-## 🏆 ELITE ACHIEVEMENTS
+My core philosophy blends:
+* **✅ Research Precision:** Architecting models built on rigorous, cutting-edge foundations.
+* **✅ Startup Execution:** Delivering rapid, high-impact results with lean resource use.
+* **✅ Enterprise Reliability:** Ensuring systems operate flawlessly under real-world pressure and scale.
 
-### 🥇 **TOP 10 – ODOO HACKATHON 2025 (QuickCourt AI)**
-<img src="https://raw.githubusercontent.com/Sujaltalreja04/QuickCourt---A-Local-Sports-Booking-team-217-odoo-hackathon-2025/refs/heads/main/567128918_804690552402142_4521860376049865453_n.jpg" width="720"/>
+<br>
 
----
+## 🛠️ AI Systems in Production (FLAGSHIP PROJECTS)
 
-### 🏆 **TOP 15 – KRMU HACKATHON 4.0 (100+ Teams)**
-<img src="https://media.licdn.com/dms/image/v2/D4D2DAQGfef8fJhGhVQ/profile-treasury-image-shrink_480_480/B4DZVDCg8YHkAM-/0/1740586488318?e=1765461600&v=beta&t=fMow8EUGLMgM1v9PU6ZYyzzYfonhaRhBFU2ka7NoI50" width="520"/>
+This section now uses a compact, visual grid structure.
 
----
-
-### 🥈 **2nd Rank – AI & Prompt Engineering (Level 1)**
-<div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4D2DAQEp099g0MkPRA/profile-treasury-image-shrink_480_480/B4DZYO4_aqG4AM-/0/1744006543852?e=1765461600&v=beta&t=K49HialGoG0lWjjwsmTxP8C7sBy8_bJiZGf0mnEAVjw" width="360"/>
-<img src="https://media.licdn.com/dms/image/v2/D4D2DAQEo5j_IGtdUAA/profile-treasury-image-shrink_480_480/B4DZYO4xcpHwAQ-/0/1744006486543?e=1765461600&v=beta&t=CcaGRDa0tXirrA20KzIHUbBfrPeuM8ESf4lrImDbpf4" width="360"/>
-</div>
-
----
-
-### 🥈 **2nd Rank – University Wide Blog Competition**
-<img src="https://media.licdn.com/dms/image/v2/D4D2DAQGUqoBUTGH4nQ/profile-treasury-image-shrink_480_480/B4DZdpwZ39HMAM-/0/1749825986878?e=1765461600&v=beta&t=V225SLgNQ-84WCZGtAQf_MUEgMN1cX7rjUhqXN_E1yw" width="520"/>
-
----
-
-## 📜 VERIFIED CERTIFICATION
-✅ **Google IQ Certified**  
-🔗 https://skillshop.exceedlms.com/student/award/NBQZ5d1M8fcvakfMJwkm2cXR  
-
----
-
-## 🚀 FLAGSHIP AI SYSTEMS
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔭 INFRA SENTINEL  
-AI-Powered Infrastructure Intelligence  
-• Structural Risk Detection  
-• Smart Sensor Fusion  
-• Predictive Maintenance  
-• Real-Time Alert Systems  
-
-</td>
-<td width="50%">
-
-### 🎯 EVOLVEX AI  
-AI Career Intelligence Platform  
-• LLM Resume Parsing  
-• Gemini Roadmaps  
-• Cloud-Native Scalability  
-• Market Skill Forecasting  
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🕵️ DEEPFAKE DETECTOR  
-• EfficientNet CNN  
-• OpenCV Face Confidence  
-• Tiny LLM Explainability  
-• Streamlit Production UI  
-
-</td>
-<td width="50%">
-
-### 🚛 CYNTRIX AI  
-Supply Chain Intelligence Startup  
-• Fleet Delay Prediction  
-• Cost Optimization  
-• Logistics Decision AI  
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      ### 🔭 Infra Sentinel
+      *AI-Powered Structural Intelligence*
+      <br><br>
+      
+      <br>
+      > A high-reliability Computer Vision system for **real-time risk detection** and predictive maintenance in critical infrastructure (bridges, pipelines, etc.).
+      * Structural Risk Detection
+      * Smart Sensor Fusion & Real-Time Alerts
+    </td>
+    <td width="50%" valign="top">
+      ### 🎯 EvolveX AI
+      *LLM Career Architect*
+      <br><br>
+      
+      <br>
+      > An intelligent platform leveraging **Gemini models** and custom RAG for professional roadmap generation and market-skill forecasting.
+      * Advanced LLM Resume Parsing
+      * Cloud-Native Scalability & Forecasting
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      ### 🕵️ Deepfake Detector
+      *Trust & Verification Engine*
+      <br><br>
+      
+      <br>
+      > A Streamlit-deployed solution using **EfficientNet CNN** and custom explainability to verify media authenticity and detect synthetic content.
+      * OpenCV Face Confidence Scoring
+      * Tiny LLM Explainability
+    </td>
+    <td width="50%" valign="top">
+      ### 🚛 Cyntrix AI
+      *Logistics Decision Intelligence*
+      <br><br>
+      
+      <br>
+      > A comprehensive supply chain intelligence system focused on optimizing fleet operations and minimizing transport friction.
+      * Fleet Delay Prediction
+      * Logistics Cost Optimization Engine
+    </td>
+  </tr>
 </table>
 
----
+<br>
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #00e6ff, rgba(0, 0, 0, 0));">
+<br>
 
-## 🧰 EXCLUSIVE TECH STACK
+## 🥇 Elite Performance: Track Record
 
-**LANGUAGES:** Python | JavaScript | SQL  
-**AI / ML:** TensorFlow | PyTorch | OpenCV | Scikit-Learn  
-**GENAI:** LLaMA | Gemini | Ollama | RAG  
-**WEB:** React | Node.js | Express | Streamlit  
-**DATA:** MySQL | MongoDB | Power BI | Tableau  
-**CLOUD:** Git | AWS | Firebase | Docker  
+### **🏆 Major Competition Wins**
 
----
+| Achievement | Project | Rank/Recognition | Visual Proof |
+| :--- | :--- | :--- | :--- |
+| **ODOO Hackathon 2025** | QuickCourt AI (Sports Booking) | **Top 10** (Out of 100+ Teams) | [![QuickCourt](https://i.imgur.com/gK6Z2y3.png)](https://github.com/Sujaltalreja04/QuickCourt---A-Local-Sports-Booking-team-217-odoo-hackathon-2025) |
+| **KRMU Hackathon 4.0** | AI-Driven Solution | **TOP 15** (Out of 100+ Teams) | <img src="https://i.imgur.com/gK6Z2y3.png" width="100"/> |
+| **Prompt Engineering** | AI & Prompt Engineering (Level 1) | **2nd Rank** | [View Certificate](https://media.licdn.com/dms/image/v2/D4D2DAQEp099g0MkPRA/profile-treasury-image-shrink_480_480/B4DZYO4_aqG4AM-/0/1744006543852?e=1765461600&v=beta&t=K49HialGoG0lWjjwsmTxP8C7sBy8_bJiZGf0mnEAVjw) |
 
-## 📊 REAL-TIME GITHUB ANALYTICS
+> *Images are now presented neatly within a table, reducing vertical clutter.*
+
+### **📜 Verified Expertise**
+
+* ✅ **Google IQ Certified** (Analytics)
+    * 🔗 [Certificate Link](https://skillshop.exceedlms.com/student/award/NBQZ5d1M8fcvakfMJwkm2cXR)
+* ✅ **University Blog Competition**
+    * **2nd Rank** (Showcasing communication and domain expertise)
+    * [View Proof](https://media.licdn.com/dms/image/v2/D4D2DAQGUqoBUTGH4nQ/profile-treasury-image-shrink_480_480/B4DZdpwZ39HMAM-/0/1749825986878?e=1765461600&v=beta&t=V225SLgNQ-84WCZGtAQf_MUEgMN1cX7rjUhqXN_E1yw)
+
+<br>
+
+## ⚙️ The Production Stack
+
+This section uses a category-based visual list for better scannability.
+
+### **AI / ML & GenAI Core**
+`TensorFlow` | `PyTorch` | `OpenCV` | `Scikit-Learn` | `LLaMA` | `Gemini` | `Ollama` | `RAG`
+
+### **Data & Backend**
+`Python` | `JavaScript` | `SQL` | `Node.js` | `Express` | `MySQL` | `MongoDB` | `Power BI`
+
+### **Deployment & Cloud**
+`Git` | `AWS` | `Firebase` | `Docker` | `React` | `Streamlit`
+
+<br>
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #00e6ff, rgba(0, 0, 0, 0));">
+<br>
+
+## 📊 Real-Time GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sujaltalreja04&show_icons=true&theme=radical" height="180"/>
-<img src="https://streak-stats.demolab.com?user=Sujaltalreja04&theme=radical" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sujaltalreja04&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com?user=Sujaltalreja04&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujaltalreja04&layout=compact&theme=radical" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujaltalreja04&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages"/>
 
 </div>
 
----
+<br>
 
-## 🌐 DIGITAL PRESENCE
+## 🌐 Digital Presence & Collaboration
 
-🔗 LinkedIn: https://www.linkedin.com/in/sujal-kishore-kumar-talreja-65975b216  
-🌍 Portfolio: https://sktalreja.vercel.app  
-📩 Open for AI Roles | Research | Startup Collaborations  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/sujal-kishore-kumar-talreja-65975b216](https://www.linkedin.com/in/sujal-kishore-kumar-talreja-65975b216)
+🌍 **Portfolio:** [https://sktalreja.vercel.app](https://sktalreja.vercel.app)
+📧 **Open for:** AI Roles | Research | Startup Collaborations
 
----
+<br>
+<div align="center" style="padding: 20px; border-radius: 10px; background-color: #f0f0f0; border: 1px solid #00e6ff;">
+    ## ⚡ THE SUJAL MANTRA
+    > *"I don’t build demos — I deploy intelligent systems that operate under real-world pressure."*
+</div>
+<br>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e6ff,100:7100ff&height=100&section=footer"/>
-
-### ⚡ *"I don’t build demos — I deploy intelligent systems that operate under real-world pressure."*
-
 </div>
