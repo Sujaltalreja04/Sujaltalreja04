@@ -1,24 +1,176 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>• InfraSentinel — An AI-powered residential & infrastructure security system that detects unknown individuals, anomalies, and hazards with real-time alerts.<br>• EvolveX AI — A research initiative exploring adaptive intelligence in surveillance and decision-making (published research).<br>• High-impact AI deployments at Zeex AI — Building practical AI systems in surveillance, automation, and operational analytics used in real environments.<br>• Full-stack + AI product experiments — Rapid prototyping tools that blend CV, forecasting, GenAI, and automation into usable, real-world products.<br>• Continuously improving my personal AI ecosystem — integrating local LLMs, computer vision engines, and automation scripts into daily tools.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br><br>• AI/ML research that solves real-world operational challenges<br>• Infrastructure safety, surveillance intelligence, and anomaly detection systems<br>• Full-stack SaaS products (React + Node + Python + AI)<br>• Analytical dashboards, forecasting platforms, and automation tools<br>• Startups or teams building systems that require speed, accuracy, and reliability<br><br>🤝 I’m looking for help with<br><br>• Scaling real-time AI systems for security, logistics, and infrastructure<br>• Improving model deployment pipelines & MLOps workflows<br>• Partnering with organizations who want AI-driven surveillance or operational intelligence<br>• Expanding my research on adaptive intelligent systems (EvolveX)<br><br>🌱 I’m currently learning<br><br>• Advanced deep learning architectures for CV, multimodal AI & anomaly detection<br>• Production-grade MLOps: CI/CD for ML, model monitoring, and fast inference workflows<br>• Distributed systems & scalable backend patterns for AI-heavy applications<br>• Forecasting systems, time-series analytics & operational intelligence<br>• Secure systems engineering (Zero-Knowledge Proof concepts, encryption methods)<br><br>💬 Ask me about<br><br>• Building AI systems from idea → prototype → real deployment<br>• Computer Vision & surveillance intelligence<br>• Full-stack development (React, Node, MongoDB, AWS, Firebase)<br>• Operational automation & analytics pipelines<br>• Turning raw ideas into usable, scalable products<br>• Balancing startup work, engineering, and research<br><br>⚡ Fun fact<br><br>I don’t just train models — I design systems that think, respond, and solve problems in real time.<br>I love turning complex problems into simple, intelligent solutions that actually work outside the lab.
+<!-- ========================================================= -->
+<!--                     SUJAL TALREJA README                  -->
+<!-- ========================================================= -->
 
+<h1 align="center">🌟 Sujal Talreja — AI Engineer | Product Builder | Security & Automation Specialist</h1>
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sujaltalreja04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sujaltalreja04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujaltalreja04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sujaltalreja04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sujaltalreja04&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2AF7FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+ML+Researcher+%7C+Product+Developer;Building+AI+Systems+That+Think+In+Real-Time;Computer+Vision+%7C+MLOps+%7C+Automation+Expert;Turning+Ideas+Into+Intelligent+Products" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sujaltalreja04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+<!-- ========================================================= -->
+<!-- About Section With Long Detailed Content -->
+<!-- ========================================================= -->
+
+### 🔭 I’m currently working on
+- **InfraSentinel** — AI-powered residential & infrastructure security system with:  
+  - Real-time person/unknown detection  
+  - Hazard + anomaly detection  
+  - Edge + cloud intelligent workflows  
+  - Alert automation & CV pipelines  
+
+- **EvolveX AI (Research Initiative)**  
+  Adaptive intelligence research focused on:  
+  - Context-aware surveillance  
+  - Dynamic threat modeling  
+  - Autonomous decision systems  
+  - Multi-modal behavior analysis  
+
+- **AI Deployments at Zeex AI**  
+  - Real-time surveillance analytics  
+  - High-impact automation systems  
+  - Intelligent operations dashboards  
+  - End-to-end production AI systems  
+
+- **Full-stack + AI product experiments**  
+  - CV + GenAI toolkits  
+  - Fast prototyping systems  
+  - Event-driven automation tools  
+
+- **My personal AI ecosystem**  
+  - Locally-hosted LLMs  
+  - Automated monitoring agents  
+  - Developer tooling powered by AI  
+
+---
+
+### 🧑‍🤝‍🧑 I’m looking to collaborate on
+- Real-world **AI/ML research**  
+- **Surveillance automation & anomaly detection**  
+- **Full-stack SaaS platforms** with AI  
+- Forecasting & operational intelligence  
+- Any startup that requires **fast engineering + scalable AI**  
+
+---
+
+### 🤝 I’m looking for help with
+- Scaling **security + logistics AI systems**  
+- Advanced **MLOps**, deployment, model monitoring  
+- Partnerships in **infrastructure safety + analytics**  
+- Expanding **EvolveX adaptive intelligence**  
+
+---
+
+### 🌱 I’m currently learning
+- Advanced CV models → transformers, multi-modal fusion  
+- Production MLOps → CI/CD, monitoring, drift detection  
+- Distributed system design for high-volume AI  
+- Decision intelligence + forecasting  
+- Secure AI systems & cryptographic design  
+
+---
+
+### 💬 Ask me about
+- Designing AI systems end-to-end  
+- CV pipelines in real-world environments  
+- Full-stack development (React + Node + Python)  
+- Cloud deployments & real-time systems  
+- Automation, analytics & system design  
+
+---
+
+### ⚡ Fun fact
+I build systems that **think, respond, and adapt** — not just models.  
+I simplify complex problems into **efficient real-time intelligent solutions**.
+
+---
+
+# 💻 Tech Stack
+
+<!-- ========================================================= -->
+<!-- Tech Stack Category Blocks -->
+<!-- ========================================================= -->
+
+### 🧠 AI / Machine Learning  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn" />
+</p>
+
+### 🖥️ Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" />
+</p>
+
+### 🎨 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,vite" />
+</p>
+
+### 🗄️ Databases  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
+</p>
+
+### 🔧 DevOps & Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,webpack,yarn" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- Full Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sujaltalreja04&theme=react&hide_border=true&show_icons=true&count_private=true" width="55%" />
+
+  <!-- Streak Stats -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sujaltalreja04&theme=react&hide_border=true" width="55%" />
+
+  <!-- Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaltalreja04&layout=compact&theme=react&hide_border=true" width="45%" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievement Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sujaltalreja04&theme=dracula&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+# ✍️ Random Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+# 🔝 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sujaltalreja04&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+# 👀 Profile Views Counter
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sujaltalreja04&color=6&icon=0" />
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!-- END OF README                                             -->
+<!-- ========================================================= -->
