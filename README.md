@@ -5,141 +5,161 @@
 <h1 align="center">🌟 Sujal Talreja — AI Engineer | Product Builder | Security & Automation Specialist</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2AF7FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+ML+Researcher+%7C+Product+Developer;Building+AI+Systems+That+Think+In+Real-Time;Computer+Vision+%7C+MLOps+%7C+Automation+Expert;Turning+Ideas+Into+Intelligent+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2AF7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+System+Builder+%7C+Security+AI;Building+Production-Grade+Intelligent+Systems;Computer+Vision+%7C+MLOps+%7C+Automation;Turning+Complex+Problems+Into+Real-World+AI" />
 </p>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-<!-- ========================================================= -->
-<!-- About Section With Long Detailed Content -->
-<!-- ========================================================= -->
+I’m **Sujal Talreja**, an AI Engineer focused on **designing, deploying, and scaling real-world intelligent systems**.
 
-### 🔭 I’m currently working on
-- **InfraSentinel** — AI-powered residential & infrastructure security system with:  
-  - Real-time person/unknown detection  
-  - Hazard + anomaly detection  
-  - Edge + cloud intelligent workflows  
-  - Alert automation & CV pipelines  
+I don’t just train models — I **build end-to-end AI systems** that operate in **high-stakes, real-time environments** across **security, infrastructure, automation, and operational intelligence**.
 
-- **EvolveX AI (Research Initiative)**  
-  Adaptive intelligence research focused on:  
-  - Context-aware surveillance  
-  - Dynamic threat modeling  
-  - Autonomous decision systems  
-  - Multi-modal behavior analysis  
-
-- **AI Deployments at Zeex AI**  
-  - Real-time surveillance analytics  
-  - High-impact automation systems  
-  - Intelligent operations dashboards  
-  - End-to-end production AI systems  
-
-- **Full-stack + AI product experiments**  
-  - CV + GenAI toolkits  
-  - Fast prototyping systems  
-  - Event-driven automation tools  
-
-- **My personal AI ecosystem**  
-  - Locally-hosted LLMs  
-  - Automated monitoring agents  
-  - Developer tooling powered by AI  
+🎓 **M.Sc. Artificial Intelligence & Machine Learning (Integrated)**  
+🏫 Ganpat University  
+🏢 **AI Engineer & Team Operations Lead — Zeex AI**  
+🌍 India | Open to global opportunities
 
 ---
 
-### 🧑‍🤝‍🧑 I’m looking to collaborate on
-- Real-world **AI/ML research**  
-- **Surveillance automation & anomaly detection**  
-- **Full-stack SaaS platforms** with AI  
-- Forecasting & operational intelligence  
-- Any startup that requires **fast engineering + scalable AI**  
+## 🔭 What I’m Building & Researching
+
+### 🛡 InfraSentinel  
+AI-powered **residential & infrastructure security platform**
+- Real-time unknown person detection  
+- Hazard & anomaly detection  
+- Edge + cloud computer vision pipelines  
+- Automated alerts & decision workflows  
+
+### 🔐 ZeroVault  
+**Next-generation secure password vault**
+- Zero-Knowledge Proofs  
+- EC-Schnorr signatures  
+- AES-256-GCM encryption  
+- Security-first system architecture  
+
+### 🧠 EvolveX AI (Research Initiative)  
+Adaptive intelligence research focused on:
+- Context-aware surveillance  
+- Dynamic threat modeling  
+- Autonomous decision systems  
+- Multi-modal behavior analysis  
+📄 *Research paper published*
+
+### 🚚 Cyntrix AI (Startup — Supply Chain & Logistics)  
+AI-driven **operational intelligence platform**
+- Fleet optimization  
+- Delay prediction & forecasting  
+- End-to-end logistics efficiency  
 
 ---
 
-### 🤝 I’m looking for help with
-- Scaling **security + logistics AI systems**  
-- Advanced **MLOps**, deployment, model monitoring  
-- Partnerships in **infrastructure safety + analytics**  
-- Expanding **EvolveX adaptive intelligence**  
+## 🏢 Current Role
+
+### AI Engineer & Team Operations Lead — Zeex AI
+- Leading **AI product direction & deployments**
+- Managing **real-time surveillance & analytics systems**
+- Designing **automation and decision intelligence pipelines**
+- Bridging **engineering, operations, and business impact**
 
 ---
 
-### 🌱 I’m currently learning
-- Advanced CV models → transformers, multi-modal fusion  
-- Production MLOps → CI/CD, monitoring, drift detection  
-- Distributed system design for high-volume AI  
-- Decision intelligence + forecasting  
-- Secure AI systems & cryptographic design  
+## 🧠 Core Strengths
+
+**AI & ML**
+- Computer Vision  
+- Deep Learning  
+- Generative AI  
+- Anomaly Detection  
+
+**Engineering**
+- Python • SQL  
+- TensorFlow • PyTorch  
+- Flask • FastAPI  
+- React • Node.js  
+
+**Systems & Analytics**
+- Secure system design  
+- Data engineering  
+- Forecasting & decision intelligence  
+- Power BI • Tableau  
 
 ---
 
-### 💬 Ask me about
-- Designing AI systems end-to-end  
-- CV pipelines in real-world environments  
-- Full-stack development (React + Node + Python)  
-- Cloud deployments & real-time systems  
-- Automation, analytics & system design  
+## 🌱 Currently Learning
+- Transformer-based & multi-modal CV models  
+- Production MLOps (CI/CD, monitoring, drift detection)  
+- Distributed AI system design  
+- Secure AI systems & cryptographic protocols  
 
 ---
 
-### ⚡ Fun fact
-I build systems that **think, respond, and adapt** — not just models.  
-I simplify complex problems into **efficient real-time intelligent solutions**.
+## 💬 Ask Me About
+- End-to-end AI system design  
+- Real-world computer vision pipelines  
+- Secure & scalable AI architectures  
+- Automation & operational intelligence  
+- Full-stack AI product development  
 
 ---
 
-# 💻 Tech Stack
+## 🎯 Vision
 
-<!-- ========================================================= -->
-<!-- Tech Stack Category Blocks -->
-<!-- ========================================================= -->
+To build **AI systems that make environments safer, businesses smarter, and operations more efficient**.
 
-### 🧠 AI / Machine Learning  
+I thrive on **high-impact problems** where **accuracy, speed, and intelligence truly matter**.
+
+---
+
+## ⚡ Fun Fact
+I build systems that **think, respond, and adapt** — not just models.
+
+---
+
+## 💻 Tech Stack
+
+### 🧠 AI / Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn" />
 </p>
 
-### 🖥️ Backend  
+### 🖥️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" />
 </p>
 
-### 🎨 Frontend  
+### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,vite" />
 </p>
 
-### 🗄️ Databases  
+### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
 </p>
 
-### 🔧 DevOps & Tools  
+### 🔧 DevOps & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,webpack,yarn" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sujaltalreja04&theme=react&hide_border=true&show_icons=true&count_private=true" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sujaltalreja04&theme=react&hide_border=true" width="48%" />
+</p>
 
-  <!-- Full Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sujaltalreja04&theme=react&hide_border=true&show_icons=true&count_private=true" width="55%" />
-
-  <!-- Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sujaltalreja04&theme=react&hide_border=true" width="55%" />
-
-  <!-- Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaltalreja04&layout=compact&theme=react&hide_border=true" width="45%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaltalreja04&layout=compact&theme=react&hide_border=true" width="40%" />
+</p>
 
 ---
 
-# 🏆 GitHub Achievement Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sujaltalreja04&theme=dracula&no-frame=true&margin-w=10" />
@@ -147,29 +167,11 @@ I simplify complex problems into **efficient real-time intelligent solutions**.
 
 ---
 
-# ✍️ Random Developer Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-# 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sujaltalreja04&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-# 👀 Profile Views Counter
+## 👀 Profile Views
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=sujaltalreja04&color=6&icon=0" />
 </p>
-
----
 
 <!-- ========================================================= -->
 <!-- END OF README                                             -->
