@@ -1,119 +1,86 @@
-<!-- ========================================================= -->
-<!--                     SUJAL TALREJA README                  -->
-<!-- ========================================================= -->
-
-<h1 align="center">🌟 Sujal Talreja — AI Engineer | Product Builder | Security & Automation Specialist</h1>
+<h1 align="center">🌟 Sujal Kishore Kumar Talreja — AI Solutions Associate | [cite_start]Founder</h1> [cite: 15, 16, 30]
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2AF7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+System+Builder+%7C+Security+AI;Building+Production-Grade+Intelligent+Systems;Computer+Vision+%7C+MLOps+%7C+Automation;Turning+Complex+Problems+Into+Real-World+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2AF7FF&center=true&vCenter=true&width=900&lines=AI+Solutions+Associate+%40+StellarMind.ai;Founder+%40+Zyntral+AI+%26+GenZyn;Building+Production-Grade+Intelligent+Systems;Computer+Vision+%7C+Agentic+AI+%7C+LLMs" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-I’m **Sujal Talreja**, an AI Engineer focused on **designing, deploying, and scaling real-world intelligent systems**.
+[cite_start]I am **Sujal Kishore Kumar Talreja**, an AI Solutions Associate contributing to developing and implementing AI-driven innovations[cite: 15, 18]. [cite_start]My work is guided by a commitment to aligning AI technologies with practical applications, ensuring they are scalable, reliable, and impactful in real-world scenarios[cite: 22]. 
 
-I don’t just train models — I **build end-to-end AI systems** that operate in **high-stakes, real-time environments** across **security, infrastructure, automation, and operational intelligence**.
+I specialize in building end-to-end AI systems that operate in high-stakes environments, transitioning seamlessly from research and model optimization to full-scale production deployments.
 
-🎓 **M.Sc. Artificial Intelligence & Machine Learning (Integrated)**  
-🏫 Ganpat University  
-🏢 **AI Engineer & Team Operations Lead — Zeex AI**  
-🌍 India | Open to global opportunities
-
----
-
-## 🔭 What I’m Building & Researching
-
-### 🛡 InfraSentinel  
-AI-powered **residential & infrastructure security platform**
-- Real-time unknown person detection  
-- Hazard & anomaly detection  
-- Edge + cloud computer vision pipelines  
-- Automated alerts & decision workflows  
-
-### 🔐 ZeroVault  
-**Next-generation secure password vault**
-- Zero-Knowledge Proofs  
-- EC-Schnorr signatures  
-- AES-256-GCM encryption  
-- Security-first system architecture  
-
-### 🧠 EvolveX AI (Research Initiative)  
-Adaptive intelligence research focused on:
-- Context-aware surveillance  
-- Dynamic threat modeling  
-- Autonomous decision systems  
-- Multi-modal behavior analysis  
-📄 *Research paper published*
-
-### 🚚 Cyntrix AI (Startup — Supply Chain & Logistics)  
-AI-driven **operational intelligence platform**
-- Fleet optimization  
-- Delay prediction & forecasting  
-- End-to-end logistics efficiency  
+[cite_start]🏢 **AI Solutions Associate @ StellarMind.ai** [cite: 16]  
+[cite_start]🚀 **Founder @ Zyntral AI & GenZyn Tech Community** [cite: 26, 27, 29, 30]  
+🎓 **M.Sc. [cite_start]Artificial Intelligence & Machine Learning (Integrated)** at Ganpat University (Aug 2022 - Aug 2027) [cite: 78, 79]  
+[cite_start]🌍 **Greater Ahmedabad Area** [cite: 25, 32]
 
 ---
 
-## 🏢 Current Role
+## 🔭 High-Impact Projects & Systems
 
-### AI Engineer & Team Operations Lead — Zeex AI
-- Leading **AI product direction & deployments**
-- Managing **real-time surveillance & analytics systems**
-- Designing **automation and decision intelligence pipelines**
-- Bridging **engineering, operations, and business impact**
+### [cite_start]🛡 HomeGuard AI (AI Security & Resident Verification Platform) [cite: 36]
+[cite_start]*Developed as an AI Research Engineer at Ganpat University* [cite: 34, 35]
+- [cite_start]Built an AI-powered residential security platform for identifying unknown residents and visitors[cite: 38].
+- [cite_start]Optimized MTCNN-based facial recognition models, achieving **92% identification accuracy** on datasets with **10,000+ processed images**[cite: 39, 47, 48].
+- [cite_start]Designed an **Agentic AI Swarm architecture** integrated with LLMs to automate verification workflows, reducing manual effort by **70%**[cite: 40, 42, 49].
+- [cite_start]Developed a real-time backend using **Convex** and a responsive **TypeScript** dashboard capable of handling **100+ concurrent requests**[cite: 41, 43, 50].
 
----
-
-## 🧠 Core Strengths
-
-**AI & ML**
-- Computer Vision  
-- Deep Learning  
-- Generative AI  
-- Anomaly Detection  
-
-**Engineering**
-- Python • SQL  
-- TensorFlow • PyTorch  
-- Flask • FastAPI  
-- React • Node.js  
-
-**Systems & Analytics**
-- Secure system design  
-- Data engineering  
-- Forecasting & decision intelligence  
-- Power BI • Tableau  
+### [cite_start]🎙️ Voice Trust & Fraud Detection Systems [cite: 63]
+[cite_start]*Developed as AI Engineer & Team Operations Lead at ZEEX AI* [cite: 54, 55]
+- [cite_start]Engineered systems to identify deepfake, AI-generated, spoofed, spam, and fraudulent calls[cite: 63, 64].
+- [cite_start]Delivered an AI-powered survey auditing platform for **Maharashtra Government projects** utilizing speech intelligence and LLMs[cite: 65, 66].
 
 ---
 
-## 🌱 Currently Learning
-- Transformer-based & multi-modal CV models  
-- Production MLOps (CI/CD, monitoring, drift detection)  
-- Distributed AI system design  
-- Secure AI systems & cryptographic protocols  
+## 🏢 Professional Journey
+
+### [cite_start]AI Solutions Associate — StellarMind.ai (May 2026 - Present) [cite: 24, 25]
+- [cite_start]Contributing to the development and implementation of AI-driven innovations and intelligent system architectures[cite: 18].
+
+### [cite_start]AI Engineer & Team Operations Lead — ZEEX AI (Sep 2025 - Feb 2026) [cite: 54, 55]
+- [cite_start]Led the delivery of **15+ AI, Computer Vision, Voice AI, and Agentic AI projects** for enterprise and government clients[cite: 57, 58].
+- [cite_start]Managed and mentored a team of **7 engineers**, delivering **10+ production-grade AI solutions**[cite: 71, 73].
+- [cite_start]Architected AI solutions using TensorFlow, PyTorch, OpenCV, CNNs, and LLMs, achieving **95%+ accuracy**[cite: 59, 60].
+- [cite_start]Led AWS and Ubuntu-based AI deployments with MLOps and CI/CD workflows, **reducing deployment cycles by 60%**[cite: 67, 68, 73].
+- [cite_start]Improved model performance by **20%+** and reduced inference latency by **40%**[cite: 69, 70].
+
+### Previous Roles & Ventures
+- [cite_start]**Founder & Tech Lead** — GenZyn Tech Community (May 2026 - Present) [cite: 26, 27, 28]
+- [cite_start]**Founder** — Zyntral AI (Jan 2025 - Present) [cite: 29, 30, 31]
+- [cite_start]**Machine Learning Engineer** — YHills (Jan 2025 - Mar 2025) [cite: 74, 75, 76]
 
 ---
 
-## 💬 Ask Me About
-- End-to-end AI system design  
-- Real-world computer vision pipelines  
-- Secure & scalable AI architectures  
-- Automation & operational intelligence  
-- Full-stack AI product development  
+## 🧠 Core Strengths & Skills
+
+**AI & Analytics**
+- [cite_start]Computer Vision, Object Detection, Voice AI, Agentic AI, LLMs [cite: 7, 57]
+- [cite_start]TensorFlow, PyTorch, OpenCV, Speech Models [cite: 59, 60]
+- [cite_start]**Tableau Certified** & Business Analytics with Excel [cite: 11, 12]
+
+**Engineering & Systems**
+- [cite_start]Python, TypeScript, Convex [cite: 41, 59]
+- [cite_start]AWS, MLOps, CI/CD, Model Versioning [cite: 67, 68]
+- [cite_start]Operations Management & Business Development [cite: 7]
+
+**Languages**
+- [cite_start]English (Full Professional), Hindi (Native), Sindhi (Native), Punjabi (Limited), Gujarati (Limited) [cite: 9]
 
 ---
 
-## 🎯 Vision
-
-To build **AI systems that make environments safer, businesses smarter, and operations more efficient**.
-
-I thrive on **high-impact problems** where **accuracy, speed, and intelligence truly matter**.
+## 🏆 Honors & Awards
+- [cite_start]**Participant:** Gen AI Exchange Hackathon 2025 [cite: 14]
 
 ---
 
-## ⚡ Fun Fact
-I build systems that **think, respond, and adapt** — not just models.
+## 📬 Let's Connect
+- [cite_start]**Portfolio:** [sktalreja.vercel.app](https://sktalreja.vercel.app/) [cite: 5]
+- [cite_start]**LinkedIn:** [sujal-kishore-kumar-talreja](https://www.linkedin.com/in/sujal-kishore-kumar-talreja-65975b216) [cite: 3, 4]
+- [cite_start]**Email:** sujaltalreja04@gmail.com [cite: 2]
+- [cite_start]**Mobile:** 07574021120 [cite: 2]
 
 ---
 
@@ -124,24 +91,14 @@ I build systems that **think, respond, and adapt** — not just models.
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn" />
 </p>
 
-### 🖥️ Backend
+### 🖥️ Full Stack & DB
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" />
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,vite" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,fastapi,flask,mongodb,mysql" />
 </p>
 
 ### 🔧 DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,webpack,yarn" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
 </p>
 
 ---
@@ -159,20 +116,8 @@ I build systems that **think, respond, and adapt** — not just models.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujaltalreja04&theme=dracula&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ## 👀 Profile Views
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=sujaltalreja04&color=6&icon=0" />
 </p>
-
-<!-- ========================================================= -->
-<!-- END OF README                                             -->
-<!-- ========================================================= -->
