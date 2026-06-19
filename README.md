@@ -1,4 +1,3 @@
-```md
 <h1 align="center">🌟 Sujal K Talreja</h1>
 
 <h3 align="center">
@@ -38,11 +37,9 @@ I'm **Sujal K Talreja**, an AI Engineer and founder focused on building producti
 
 AI-powered residential security and visitor verification platform.
 
-**Tech Stack**
+**Tech Stack:** `MTCNN` `Face Recognition` `Convex` `TypeScript` `LLMs`
 
-`MTCNN` `Face Recognition` `Convex` `TypeScript` `LLMs`
-
-**Key Features**
+**Key Features:**
 
 - Resident Verification
 - Visitor Authentication
@@ -56,11 +53,9 @@ AI-powered residential security and visitor verification platform.
 
 AI-powered infrastructure monitoring platform developed for Microsoft Imagine Cup.
 
-**Tech Stack**
+**Tech Stack:** `YOLOv8` `CNN` `OpenCV` `Streamlit` `Azure`
 
-`YOLOv8` `CNN` `OpenCV` `Streamlit` `Azure`
-
-**Capabilities**
+**Capabilities:**
 
 - Crack Detection
 - Pothole Detection
@@ -74,7 +69,7 @@ AI-powered infrastructure monitoring platform developed for Microsoft Imagine Cu
 
 Advanced Voice AI system for fraud detection and call intelligence.
 
-**Features**
+**Features:**
 
 - Deepfake Detection
 - Spam Call Identification
@@ -88,7 +83,7 @@ Advanced Voice AI system for fraud detection and call intelligence.
 
 Building intelligent AI systems and automation workflows for businesses.
 
-**Focus Areas**
+**Focus Areas:**
 
 - Agentic AI
 - Workflow Automation
@@ -101,8 +96,7 @@ Building intelligent AI systems and automation workflows for businesses.
 ## 💼 Experience
 
 ### AI Solutions Associate
-
-**May 2026 - Present**
+*May 2026 - Present*
 
 - AI Solution Development
 - Intelligent System Design
@@ -110,8 +104,7 @@ Building intelligent AI systems and automation workflows for businesses.
 - Client Solution Architecture
 
 ### AI Engineer & Team Operations Lead | ZEEX AI
-
-**Sep 2025 - Feb 2026**
+*Sep 2025 - Feb 2026*
 
 - Led AI project delivery
 - Managed technical operations
@@ -120,8 +113,7 @@ Building intelligent AI systems and automation workflows for businesses.
 - Worked on Voice AI and surveillance systems
 
 ### Machine Learning Engineer | YHills
-
-**Jan 2025 - Mar 2025**
+*Jan 2025 - Mar 2025*
 
 - Machine Learning Development
 - Data Processing
@@ -162,9 +154,9 @@ Building intelligent AI systems and automation workflows for businesses.
 
 ## 📫 Connect With Me
 
-- Portfolio: https://sktalreja.vercel.app
-- LinkedIn: https://linkedin.com/in/sujal-kishore-kumar-talreja-65975b216
-- Email: sujaltalreja04@gmail.com
+- **Portfolio:** [sktalreja.vercel.app](https://sktalreja.vercel.app)
+- **LinkedIn:** [Sujal K Talreja](https://linkedin.com/in/sujal-kishore-kumar-talreja-65975b216)
+- **Email:** [sujaltalreja04@gmail.com](mailto:sujaltalreja04@gmail.com)
 
 ---
 
@@ -177,4 +169,3 @@ Building intelligent AI systems and automation workflows for businesses.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaltalreja04&theme=tokyonight" />
 </p>
-```
