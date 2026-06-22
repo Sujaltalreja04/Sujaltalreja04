@@ -1,18 +1,18 @@
-<h1 align="center">🌟 Sujal K Talreja</h1>
+<h1 align="center">🌌 Sujal K Talreja</h1>
 
 <h3 align="center">
-AI Engineer • Founder @ Zyntral AI • AI Solutions Associate
+AI Engineer • Founder @ Zyntral AI • Building AI Systems That Scale
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2AF7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Computer+Vision+Developer;Founder+%40+Zyntral+AI;Building+Agentic+AI+Systems;Computer+Vision+%7C+LLMs+%7C+Automation;Microsoft+Imagine+Cup+2026+Participant" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Computer+Vision+Developer;Founder+%40+Zyntral+AI;Building+Agentic+AI+Products;Computer+Vision+%7C+LLMs+%7C+Automation;Turning+Ideas+Into+AI+Solutions" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm **Sujal K Talreja**, an AI Engineer and founder focused on building production-ready AI solutions across Computer Vision, Agentic AI, Voice AI, and Large Language Models.
+I'm **Sujal K Talreja**, an AI Engineer, Founder, and AI Solutions Associate passionate about building intelligent systems that solve real-world business problems.
 
 - 🚀 Founder @ Zyntral AI
 - 🌐 Founder @ GenZyn Tech Community
@@ -20,58 +20,58 @@ I'm **Sujal K Talreja**, an AI Engineer and founder focused on building producti
 - 🎓 M.Sc. Artificial Intelligence & Machine Learning, Ganpat University
 - 📍 Ahmedabad, Gujarat, India
 
-### Current Focus
+### 🔥 Current Focus
 
-- Computer Vision Systems
-- Agentic AI Workflows
+- Agentic AI Systems
+- Computer Vision Applications
 - Large Language Models
-- AI Automation
-- MLOps & Deployment
-- AI-Powered Business Solutions
+- Voice AI Solutions
+- Workflow Automation
+- AI Infrastructure & MLOps
 
 ---
 
-## 🔥 Featured Projects
-
-### 🛡️ HomeGuard AI
-
-AI-powered residential security and visitor verification platform.
-
-**Tech Stack:** `MTCNN` `Face Recognition` `Convex` `TypeScript` `LLMs`
-
-**Key Features:**
-
-- Resident Verification
-- Visitor Authentication
-- Real-Time Monitoring
-- Agentic Workflow Automation
-- Security Dashboard
-
----
+## 🚀 Featured Projects
 
 ### 🏗️ InfraSentinel
 
-AI-powered infrastructure monitoring platform developed for Microsoft Imagine Cup.
+AI-Powered Infrastructure Monitoring Platform developed for Microsoft Imagine Cup.
 
-**Tech Stack:** `YOLOv8` `CNN` `OpenCV` `Streamlit` `Azure`
+**Tech Stack:** `YOLOv8` `CNN` `OpenCV` `Azure` `Streamlit`
 
-**Capabilities:**
+#### Key Features
 
 - Crack Detection
 - Pothole Detection
 - Structural Damage Analysis
 - Severity Classification
-- Infrastructure Insights
+- Predictive Maintenance Insights
+
+---
+
+### 🛡️ HomeGuard AI
+
+AI-powered residential security and visitor verification platform.
+
+**Tech Stack:** `Face Recognition` `MTCNN` `Convex` `TypeScript` `LLMs`
+
+#### Key Features
+
+- Resident Verification
+- Visitor Authentication
+- Smart Access Control
+- Security Monitoring
+- Automated Workflows
 
 ---
 
 ### 🎙️ Voice Intelligence Platform
 
-Advanced Voice AI system for fraud detection and call intelligence.
+Advanced Voice AI platform for fraud detection and call intelligence.
 
-**Features:**
+#### Capabilities
 
-- Deepfake Detection
+- Deepfake Voice Detection
 - Spam Call Identification
 - Speech Analytics
 - Survey Auditing
@@ -81,15 +81,15 @@ Advanced Voice AI system for fraud detection and call intelligence.
 
 ### 🤖 Zyntral AI
 
-Building intelligent AI systems and automation workflows for businesses.
+Building intelligent AI systems and business automation workflows.
 
-**Focus Areas:**
+#### Focus Areas
 
 - Agentic AI
-- Workflow Automation
 - AI Assistants
+- Workflow Automation
 - RAG Systems
-- AI Infrastructure
+- Enterprise AI Solutions
 
 ---
 
@@ -98,65 +98,83 @@ Building intelligent AI systems and automation workflows for businesses.
 ### AI Solutions Associate
 *May 2026 - Present*
 
-- AI Solution Development
-- Intelligent System Design
-- Automation Workflows
-- Client Solution Architecture
+- AI Solution Architecture
+- Intelligent Workflow Design
+- Automation Systems
+- Client-Focused AI Solutions
 
-### AI Engineer & Team Operations Lead | ZEEX AI
+### AI Engineer & Operations Team Lead | ZEEX AI
 *Sep 2025 - Feb 2026*
 
 - Led AI project delivery
 - Managed technical operations
 - Built Computer Vision systems
-- Deployed AI solutions on cloud infrastructure
-- Worked on Voice AI and surveillance systems
+- Worked on surveillance AI solutions
+- Deployed AI infrastructure
 
 ### Machine Learning Engineer | YHills
 *Jan 2025 - Mar 2025*
 
 - Machine Learning Development
 - Data Processing
-- Model Training
+- Model Training & Evaluation
 
 ---
 
 ## 🛠️ Tech Stack
 
-### AI / ML
+### 🤖 AI & Machine Learning
 
 ![Python](https://skillicons.dev/icons?i=python)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![Tensorflow](https://skillicons.dev/icons?i=tensorflow)
 ![OpenCV](https://skillicons.dev/icons?i=opencv)
 
-### Full Stack
+### ⚙️ Backend & APIs
+
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Flask](https://skillicons.dev/icons?i=flask)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+
+### 🎨 Frontend
 
 ![React](https://skillicons.dev/icons?i=react)
 ![Typescript](https://skillicons.dev/icons?i=ts)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Flask](https://skillicons.dev/icons?i=flask)
+![Vite](https://skillicons.dev/icons?i=vite)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-### Databases
+### 🗄️ Databases
 
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 ![AWS](https://skillicons.dev/icons?i=aws)
+![Azure](https://skillicons.dev/icons?i=azure)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git)
 
 ---
 
+## 📈 Current Interests
+
+- Multi-Agent Systems
+- AI Startups
+- Enterprise Automation
+- AI Product Development
+- Computer Vision
+- MLOps
+- Generative AI
+
+---
+
 ## 📫 Connect With Me
 
-- **Portfolio:** [sktalreja.vercel.app](https://sktalreja.vercel.app)
-- **LinkedIn:** [Sujal K Talreja](https://linkedin.com/in/sujal-kishore-kumar-talreja-65975b216)
-- **Email:** [sujaltalreja04@gmail.com](mailto:sujaltalreja04@gmail.com)
+- 🌐 Portfolio: https://sktalreja.vercel.app
+- 💼 LinkedIn: https://linkedin.com/in/sujal-kishore-kumar-talreja-65975b216
+- 📧 Email: sujaltalreja04@gmail.com
 
 ---
 
@@ -169,3 +187,9 @@ Building intelligent AI systems and automation workflows for businesses.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaltalreja04&theme=tokyonight" />
 </p>
+
+---
+
+<h3 align="center">
+🚀 Building AI Products That Create Real-World Impact
+</h3>
