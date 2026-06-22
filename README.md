@@ -5,13 +5,13 @@ AI Engineer • Founder @ Zyntral AI • AI Solutions Associate
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Computer+Vision+Developer;Founder+%40+Zyntral+AI;Building+Agentic+AI+Systems;Computer+Vision+%7C+LLMs+%7C+Automation;443%2B+GitHub+Contributions+This+Year" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Computer+Vision+Developer;Founder+%40+Zyntral+AI;Building+Agentic+AI+Systems;Computer+Vision+%7C+LLMs+%7C+Automation;443+GitHub+Contributions+in+2026" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-Computer%20Vision-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Founder-Zyntral%20AI-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub%20Contributions-443%2B-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub%20Contributions-443+ (2026)-brightgreen?style=for-the-badge&logo=github" />
 </p>
 
 ---
@@ -132,7 +132,7 @@ Building intelligent AI systems and business automation workflows.
 - 🚀 Founder @ Zyntral AI
 - 🧠 Building Agentic AI Systems
 - 🏅 Microsoft Imagine Cup 2026 Participant
-- 📈 443+ GitHub Contributions (Last 12 Months)
+- 📈 443+ GitHub Contributions (2026)
 - 👨‍💻 AI Engineer & Operations Team Lead
 - 🌐 Community Builder & Tech Speaker
 
@@ -172,24 +172,6 @@ Building intelligent AI systems and business automation workflows.
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git)
-
----
-
-## 📊 GitHub Activity
-
-### 🚀 443 Contributions In The Last Year
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujaltalreja04&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaltalreja04&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujaltalreja04&theme=tokyonight" />
-</p>
 
 ---
 
