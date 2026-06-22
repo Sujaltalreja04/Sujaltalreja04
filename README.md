@@ -1,188 +1,84 @@
-<h1 align="center">🚀 Sujal K Talreja</h1>
+<h1 align="center">🚀 Sujal Kishore Kumar Talreja</h1>
 
 <h3 align="center">
-AI Engineer • Founder @ Zyntral AI • AI Solutions Associate
+AI Solutions Associate @ StellarMind.ai • Founder @ Zyntral AI
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Computer+Vision+Developer;Founder+%40+Zyntral+AI;Building+Agentic+AI+Systems;Computer+Vision+%7C+LLMs+%7C+Automation;443+GitHub+Contributions+in+2026" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-Computer%20Vision-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Founder-Zyntral%20AI-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub%20Contributions-443+ (2026)-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Solutions+Associate;Building+Scalable+Agentic+AI+Systems;Computer+Vision+%7C+LLMs+%7C+Voice+AI;Operations+Management+%7C+Business+Development;443+GitHub+Contributions+in+2026" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Sujal K Talreja**, an AI Engineer, Founder, and AI Solutions Associate focused on building production-ready AI systems across Computer Vision, Agentic AI, Voice AI, Automation, and Large Language Models.
+I am an AI Solutions Associate at **StellarMind.ai**, dedicated to developing and implementing impactful, scalable, and reliable AI-driven innovations[cite: 1]. Currently pursuing my M.Sc. in Artificial Intelligence & Machine Learning at **Ganpat University**, I combine technical expertise in object detection and computer vision with a strong background in business development and operations management[cite: 1].
 
-- 🚀 Founder @ Zyntral AI
-- 🌐 Founder @ GenZyn Tech Community
-- 🏢 AI Solutions Associate
-- 🎓 M.Sc. Artificial Intelligence & Machine Learning
-- 📍 Ahmedabad, Gujarat, India
-
-### Current Focus
-
-- 🤖 Agentic AI Systems
-- 👁️ Computer Vision Applications
-- 🧠 Large Language Models
-- 🎙️ Voice AI Solutions
-- ⚡ Workflow Automation
-- ☁️ AI Infrastructure & MLOps
+- 🏢 **Current Role:** AI Solutions Associate at StellarMind.ai[cite: 1]
+- 🚀 **Founder:** Zyntral AI (Indie Developer)[cite: 1]
+- 🎓 **Education:** M.Sc. AI & ML, Ganpat University (2022–2027)[cite: 1]
+- 📍 **Based:** Greater Ahmedabad Area, India[cite: 1]
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🏗️ InfraSentinel
+### 🛡️ HomeGuard AI: Security & Resident Verification
+An AI-powered residential security platform designed to identify unknown residents and visitors[cite: 1].
 
-AI-powered infrastructure monitoring platform developed for Microsoft Imagine Cup.
-
-**Tech Stack:** `YOLOv8` `CNN` `OpenCV` `Azure` `Streamlit`
-
-**Capabilities**
-
-- Crack Detection
-- Pothole Detection
-- Structural Damage Analysis
-- Severity Classification
-- Predictive Maintenance Insights
-
----
-
-### 🛡️ HomeGuard AI
-
-AI-powered residential security and visitor verification platform.
-
-**Tech Stack:** `Face Recognition` `MTCNN` `Convex` `TypeScript` `LLMs`
-
-**Features**
-
-- Resident Verification
-- Visitor Authentication
-- Smart Access Control
-- Security Monitoring
-- Automated Workflows
-
----
-
-### 🎙️ Voice Intelligence Platform
-
-Advanced Voice AI system for fraud detection and call intelligence.
-
-**Capabilities**
-
-- Deepfake Detection
-- Spam Call Identification
-- Speech Analytics
-- Survey Auditing
-- Voice Intelligence
-
----
-
-### 🤖 Zyntral AI
-
-Building intelligent AI systems and business automation workflows.
-
-**Focus Areas**
-
-- Agentic AI
-- AI Assistants
-- Workflow Automation
-- RAG Systems
-- Enterprise AI Solutions
+- **Capabilities:**
+  - Built MTCNN-based facial recognition with **92% accuracy** on 10,000+ images[cite: 1].
+  - Designed an **Agentic AI Swarm** integrated with LLMs for automated security workflows[cite: 1].
+  - Developed a real-time backend using **Convex** and a **TypeScript** dashboard[cite: 1].
+- **Impact:** Reduced manual verification efforts by **~70%** and handles 100+ concurrent requests[cite: 1].
 
 ---
 
 ## 💼 Experience
 
-### AI Solutions Associate
-*May 2026 – Present*
+### AI Solutions Associate | StellarMind.ai
+*May 2026 – Present*[cite: 1]
 
-- AI Solution Development
-- Solution Architecture
-- Intelligent Automation
-- Client-Focused AI Systems
+### Indie Developer | Zyntral AI
+*May 2025 – Present*[cite: 1]
 
-### AI Engineer & Operations Team Lead | ZEEX AI
-*Sep 2025 – Feb 2026*
+### AI Research Engineer | Ganpat University
+*January 2026 – April 2026*[cite: 1]
 
-- Led AI project delivery
-- Managed technical operations
-- Built Computer Vision systems
-- Worked on surveillance AI solutions
-- Deployed AI infrastructure
+### AI Engineer & Team Operations Lead | ZEEX AI
+*September 2025 – February 2026*[cite: 1]
+
+- **Project Delivery:** Led 15+ projects in Computer Vision, Voice AI, and Agentic AI for enterprise and government clients[cite: 1].
+- **Technical Leadership:** Managed a team of 7 engineers; architected solutions using **TensorFlow, PyTorch, OpenCV, and LLMs**[cite: 1].
+- **Key Achievements:**
+  - Delivered AI survey auditing for the Maharashtra Government[cite: 1].
+  - Built deepfake and fraud detection systems[cite: 1].
+  - Optimized models to improve performance by **20%+** and reduced latency by **40%**[cite: 1].
+  - Implemented MLOps with AWS/Ubuntu, reducing deployment cycles by **60%**[cite: 1].
 
 ### Machine Learning Engineer | YHills
-*Jan 2025 – Mar 2025*
-
-- Machine Learning Development
-- Data Processing
-- Model Training & Evaluation
+*January 2025 – March 2025*[cite: 1]
 
 ---
 
-## 🏆 Highlights
+## 🛠️ Skills & Languages
 
-- 🚀 Founder @ Zyntral AI
-- 🧠 Building Agentic AI Systems
-- 🏅 Microsoft Imagine Cup 2026 Participant
-- 📈 443+ GitHub Contributions (2026)
-- 👨‍💻 AI Engineer & Operations Team Lead
-- 🌐 Community Builder & Tech Speaker
-
----
-
-## 🛠️ Tech Stack
-
-### AI & Machine Learning
-
-![Python](https://skillicons.dev/icons?i=python)
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
-
-### Backend
-
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Flask](https://skillicons.dev/icons?i=flask)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-
-### Frontend
-
-![React](https://skillicons.dev/icons?i=react)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Vite](https://skillicons.dev/icons?i=vite)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
-### Database
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
-### Cloud & DevOps
-
-![AWS](https://skillicons.dev/icons?i=aws)
-![Azure](https://skillicons.dev/icons?i=azure)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Git](https://skillicons.dev/icons?i=git)
+- **Top Skills:** Operations Management, Business Development, Object Detection[cite: 1].
+- **Languages:** 
+  - **Native/Bilingual:** Sindhi, Hindi[cite: 1].
+  - **Full Professional:** English[cite: 1].
+  - **Limited Working:** Punjabi, Gujarati[cite: 1].
 
 ---
 
-## 📫 Connect With Me
+## 📬 Connect With Me
 
-- 🌐 Portfolio: https://sktalreja.vercel.app
-- 💼 LinkedIn: https://linkedin.com/in/sujal-kishore-kumar-talreja-65975b216
-- 📧 Email: sujaltalreja04@gmail.com
+- 🌐 **Portfolio:** [sktalreja.vercel.app](https://sktalreja.vercel.app/)[cite: 1]
+- 💼 **LinkedIn:** [sujal-kishore-kumar-talreja](https://www.linkedin.com/in/sujal-kishore-kumar-talreja-65975b216)[cite: 1]
+- 📧 **Email:** [sujaltalreja04@gmail.com](mailto:sujaltalreja04@gmail.com)[cite: 1]
+- 📱 **Phone:** 07574021120[cite: 1]
 
 ---
-
-<h3 align="center">
-⚡ Building AI Products That Create Real-World Impact
-</h3>
+<p align="center">
+⚡ Aligning AI technologies with practical, real-world applications.
+</p>
