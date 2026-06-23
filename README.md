@@ -15,22 +15,32 @@ Full-Stack AI Developer & DevOps Engineer @ StellarMind.ai • Founder @ Zyntral
 I am a **Full-Stack AI Developer and DevOps Engineer** at **StellarMind.ai**, specializing in the end-to-end lifecycle of scalable, high-performance AI systems. Currently pursuing my M.Sc. in AI & ML at **Ganpat University**, I bridge the gap between complex research and production-grade deployment, architecting robust agentic workflows and automated infrastructure.
 
 - 🏢 **Current Role:** Full-Stack AI Developer & DevOps Engineer at StellarMind.ai
-- 🚀 **Founder:** Zyntral AI (Indie Developer)
+- 🚀 **Founder:** Zyntral AI
 - 🎓 **Education:** M.Sc. AI & ML, Ganpat University (2022–2027)
 - 📍 **Based:** Greater Ahmedabad Area, India
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Key Projects
 
-### 🛡️ HomeGuard AI: Scalable Security & Verification
+### 🏗️ InfraSentinel: Infrastructure Intelligence
+An AI-driven platform for country-scale infrastructure monitoring, quality assessment, and regulatory compliance.
+- **Capabilities:** Automated detection of infrastructure failures and unauthorized construction via computer vision.
+- **Tech Stack:** 🐍 Python | 🟦 TypeScript | 👁️ Computer Vision | 🧠 RAG | 🤖 Agent Swarming | 💬 LLMs | ☁️ AWS | 💠 Convex
+
+### 🤖 Zyntral AI: Production-Grade Agentic Workflows
+A platform designed to convert natural language prompts into autonomous, production-grade AI automation and complex workflows.
+- **Capabilities:** Facilitates rapid development of RAG systems and orchestrates modular AI agents to automate business processes.
+- **Tech Stack:** 🐍 Python | 🟦 TypeScript | 🧠 RAG | 💬 LLMs | ⚙️ Agentic Orchestration | ☁️ Cloud Infrastructure
+
+### 🎙️ VeriVox: AI-Generated Voice Detection (R&D)
+A research initiative developed for the Maharashtra Government to ensure the integrity of survey data by detecting AI-generated and deepfake audio.
+- **Capabilities:** Validates the authenticity of field surveys to prevent synthetic fraud.
+- **Tech Stack:** 🐍 Python | 🎧 Voice AI | 🛡️ Deepfake Detection | 🤖 LLMs | ☁️ AWS
+
+### 🛡️ HomeGuard AI: Residential Security
 An autonomous residential security platform utilizing advanced computer vision and agentic orchestration.
-
-- **Technical Stack:**
-  - **Vision:** MTCNN-based facial recognition reaching **92% accuracy** across 10,000+ datasets.
-  - **Intelligence:** Agentic AI Swarms integrated with LLMs for autonomous security decision-making.
-  - **Infrastructure:** Real-time event-driven backend via **Convex** and high-performance **TypeScript** interfaces.
-- **Impact:** Achieved **~70% reduction** in manual verification overhead while maintaining low-latency performance for 100+ concurrent requests.
+- **Tech Stack:** 👁️ MTCNN | 💬 LLMs | 🤖 Agentic AI Swarms | 💠 Convex | 🟦 TypeScript
 
 ---
 
@@ -49,11 +59,7 @@ An autonomous residential security platform utilizing advanced computer vision a
 *September 2025 – February 2026*
 
 - **System Architecture:** Spearheaded 15+ end-to-end projects spanning Computer Vision, Voice AI, and Agentic architectures.
-- **Engineering Leadership:** Directed a team of 7 engineers; standardized development workflows using **TensorFlow, PyTorch, OpenCV, and LLMs**.
-- **DevOps & MLOps:**
-  - Architected MLOps pipelines on **AWS/Ubuntu**, accelerating deployment cycles by **60%**.
-  - Optimized inference pipelines, improving model throughput by **20%+** and reducing latency by **40%**.
-  - Delivered critical AI survey auditing for government enterprise use cases and robust deepfake/fraud detection systems.
+- **DevOps & MLOps:** Architected MLOps pipelines on **AWS/Ubuntu**, accelerating deployment cycles by **60%**; optimized inference throughput by **20%+**.
 
 ### Machine Learning Engineer | YHills
 *January 2025 – March 2025*
@@ -62,12 +68,9 @@ An autonomous residential security platform utilizing advanced computer vision a
 
 ## 🛠️ Skills & Technologies
 
-- **Core Expertise:** Full-Stack AI Development, MLOps, DevOps, Agentic Workflow Architecture, Object Detection.
-- **Tech Stack:** Python, TypeScript, PyTorch, TensorFlow, OpenCV, AWS, Docker, Convex.
-- **Languages:** 
-  - **Native/Bilingual:** Sindhi, Hindi
-  - **Full Professional:** English
-  - **Limited Working:** Punjabi, Gujarati
+- **Languages:** Python, TypeScript
+- **AI & ML:** PyTorch, TensorFlow, OpenCV, LLM Orchestration, Agentic Workflows, RAG, Voice AI
+- **Infrastructure:** AWS, Docker, Convex, MLOps, DevOps
 
 ---
 
